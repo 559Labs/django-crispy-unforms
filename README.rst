@@ -52,10 +52,10 @@ Documentation
 
 Acknowledgements
 ----------------
-Many thanks to the authors of `Django Crispy <http://django-crispy-forms.readthedocs.io`_,
+Many thanks to the authors of `Django Crispy <http://django-crispy-forms.readthedocs.io/>`_,
 Miguel Araujo and Daniel Greenfeld -- as well as the many contributors to
 their project. Without them, we'd all be much more miserable building UIs
 for our Django-based projects.
 
 
-Copyright &copy;2017, `Django Crispy <http://559labs.com>`_,
+Copyright ©2017, `559 Labs <http://559labs.com>`_
