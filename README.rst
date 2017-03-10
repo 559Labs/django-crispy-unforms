@@ -6,13 +6,13 @@ Django Crispy Un-Forms
 a package of additional layout objects that aren't form based. There are times
 when you need to display additional fields as read-only elements in a variety
 of ways. You could simply make a field disabled, but this is hugely a bad UX
-practice. Instead,
+practice.
 
 Installation
 ------------
 
-1. Install the package with: `pip3 install django-crispy-unforms`
-2. Import the module into your project:  `import crispy_unforms`
+1. Install the package with: ``pip install django-crispy-unforms``
+2. Import the module into your project:  ``import crispy_unforms``
 3. Use your newly found layout objects within your Crispy form layouts.
 
 Documentation
