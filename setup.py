@@ -21,7 +21,7 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 setup(
-    name='django-crispy-unforms',
+    name='crispy_unforms',
     version=crispy_unforms.__version__,
     description="Additional non-input-based layout objects for the Crispy Forms package.",
     long_description=open('README.rst').read(),
